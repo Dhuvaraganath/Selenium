@@ -1,0 +1,5 @@
+WebElement n =driver.findElement(By.xpath("//form[@class='form']/input"));
+ 		
+ 		String t = n.getAttribute("value");
+ 				
+ 		System.out.println(t);

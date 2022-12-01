@@ -1,0 +1,18 @@
+chrome
+-------
+System.setProperty("webdriver.chrome.driver", "/Users/dhuva/Documents/chromedriver.exe");
+
+WebDriver driver = new ChromeDriver();
+
+
+Edge
+-----
+System.setProperty("webdriver.edge.driver", "/Users/dhuva/Documents/msedgedriver.exe");
+
+WebDriver driver = new EdgeDriver();
+
+Firebox
+-------
+System.setProperty("webdriver.edge.driver", "/Users/dhuva/Documents/msedgedriver.exe");
+
+WebDriver driver = new EdgeDriver();
